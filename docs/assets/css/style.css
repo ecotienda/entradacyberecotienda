@@ -29,6 +29,7 @@ border-width: 10px;
 border-style: solid;
 border-radius:35px;
 
+
 }
 .botton-cyber-ecotienda-link:hover{
   background: #98ffc8;
@@ -37,15 +38,18 @@ padding-bottom:15px;
 padding-left:40px;
 padding-right:40px;
 border-color: #7abceb;
-border-width: 12px;
+border-width: 10px;
 border-style: solid;
 border-radius:35px;
+
 
 }
 .TEXT-CYBER-ECOTIENDA-BOTON{
   font-size: 49px;
   font-family: monospace;
 }
+
+
 
 .nav a {
     color:#ffffff !important;
