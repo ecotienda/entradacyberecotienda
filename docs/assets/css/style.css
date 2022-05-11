@@ -20,11 +20,28 @@ body {
 }
 .botton-cyber-ecotienda-link{
   background: #86efb7;
-  text-decoration-color: #ccc ;
+  padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+border-color: #61a4d4;
+border-width: 10px;
+border-style: solid;
+border-radius:35px;
+
 }
 .botton-cyber-ecotienda-link:hover{
-  background: #519370;
-  text-decoration-color: #ccc ;
+  background: #98ffc8;
+  padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+border-color: #7abceb;
+border-width: 12px;
+border-style: solid;
+border-radius:35px;
+
+
 }
 
 .nav a {
