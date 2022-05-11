@@ -41,9 +41,10 @@ border-color: #7abceb;
 border-width: 10px;
 border-style: solid;
 border-radius:35px;
-/*d*/
 
 }
+
+/*letras siempre definir si es arial o otras letras*/
 .TEXT-CYBER-ECOTIENDA-BOTON{
   font-size: 49px;
   font-family: monospace;
